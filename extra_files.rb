@@ -5,3 +5,5 @@ if extra_files
 end
 
 lunchtime = true
+
+puts "Lunchtime has passed"
